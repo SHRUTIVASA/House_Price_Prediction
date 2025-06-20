@@ -1,21 +1,21 @@
-# 🏡 House Price Prediction Web App
+# House Price Prediction Web App
 
 A complete machine learning-powered **Flask web application** that predicts house prices based on user inputs such as area, BHK, location, etc. It uses advanced ensemble techniques including **Stacking** and **Voting Regressors**, and also provides a built-in **Loan Calculator** to help estimate monthly EMIs.
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔍 Predicts house prices based on real estate input data
-- 🧠 Trained using ensemble learning models (Voting & Stacking)
-- 💰 Loan calculator to estimate EMI based on user input
-- 💾 Uses `.pkl` files for loading trained models and scalers
-- 🌐 Simple and responsive UI using HTML and CSS
-- ⚙️ Integrated with Flask for smooth backend functionality
+-  Predicts house prices based on real estate input data
+-  Trained using ensemble learning models (Voting & Stacking)
+-  Loan calculator to estimate EMI based on user input
+- Uses `.pkl` files for loading trained models and scalers
+- Simple and responsive UI using HTML and CSS
+- Integrated with Flask for smooth backend functionality
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 
@@ -43,7 +43,7 @@ housePricePrediction/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -85,7 +85,7 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ---
 
-## 🧠 Machine Learning Models
+## Machine Learning Models
 
 The backend uses multiple regression models:
 
@@ -101,7 +101,7 @@ These were trained on a dataset of real estate listings and saved as `.pkl` file
 
 ---
 
-## 🏦 Loan Calculator
+## Loan Calculator
 
 Accessible via `/loan_calculator`, this page lets users:
 
@@ -114,7 +114,7 @@ EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]
 
 ---
 
-## 🧪 Sample Inputs
+## Sample Inputs
 
 * Area in sq. ft
 * Number of bedrooms (BHK)
@@ -126,7 +126,7 @@ EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]
 
 ---
 
-## 📊 Model Evaluation (Offline)
+## Model Evaluation (Offline)
 
 Trained models were evaluated using:
 
@@ -139,19 +139,19 @@ Trained models were evaluated using:
 
 ---
 
-## 📘 Background (Optional)
+## Background (Optional)
 
 This project is based on an academic research study:
 
 > **"Analyzing Stacking and Voting Regressors for House Price Prediction: A Comparative Approach"**
-> 📚 *Anvesak*, Vol. 53, Issue-03, July–Dec 2023
-> 🎓 UGC Care-1 | Peer Reviewed | Impact Factor: 6.6
+>  *Anvesak*, Vol. 53, Issue-03, July–Dec 2023
+>  UGC Care-1 | Peer Reviewed | Impact Factor: 6.6
 
 ---
 
-## 📸 UI Preview
+## UI Preview
 
-> 🏠 Main Form (main.html)
-> 💸 Loan Calculator (loan\_calculator.html)
-> 🎨 Styled with custom CSS under `static/`
+>  Main Form (main.html)
+>  Loan Calculator (loan\_calculator.html)
+>  Styled with custom CSS under `static/`
 
