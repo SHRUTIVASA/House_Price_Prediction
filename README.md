@@ -9,9 +9,9 @@ A complete machine learning-powered **Flask web application** that predicts hous
 -  Predicts house prices based on real estate input data
 -  Trained using ensemble learning models (Voting & Stacking)
 -  Loan calculator to estimate EMI based on user input
-- Uses `.pkl` files for loading trained models and scalers
-- Simple and responsive UI using HTML and CSS
-- Integrated with Flask for smooth backend functionality
+-  Uses `.pkl` files for loading trained models and scalers
+-  Simple and responsive UI using HTML and CSS
+-  Integrated with Flask for smooth backend functionality
 
 ---
 
@@ -139,19 +139,12 @@ Trained models were evaluated using:
 
 ---
 
-## Background (Optional)
+## Publication
 
-This project is based on an academic research study:
+This project and its underlying research have been featured in the following journal
 
 > **"Analyzing Stacking and Voting Regressors for House Price Prediction: A Comparative Approach"**
 >  *Anvesak*, Vol. 53, Issue-03, July–Dec 2023
 >  UGC Care-1 | Peer Reviewed | Impact Factor: 6.6
 
 ---
-
-## UI Preview
-
->  Main Form (main.html)
->  Loan Calculator (loan\_calculator.html)
->  Styled with custom CSS under `static/`
-
