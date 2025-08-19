@@ -48,7 +48,7 @@ housePricePrediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/simonisavani/housePricePrediction.git
+git clone [https://github.com/SHRUTIVASA/House_Price_Prediction.git]
 cd housePricePrediction
 ````
 
