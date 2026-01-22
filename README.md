@@ -48,7 +48,7 @@ housePricePrediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/simonisavani/housePricePrediction.git
+git clone https://github.com/SHRUTIVASA/housePricePrediction.git
 cd housePricePrediction
 ````
 
@@ -139,7 +139,7 @@ Trained models were evaluated using:
 
 ---
 
-## Background (Optional)
+## Background
 
 This project is based on an academic research study:
 
