@@ -148,10 +148,3 @@ This project is based on an academic research study:
 >  UGC Care-1 | Peer Reviewed | Impact Factor: 6.6
 
 ---
-
-## UI Preview
-
->  Main Form (main.html)
->  Loan Calculator (loan\_calculator.html)
->  Styled with custom CSS under `static/`
-
